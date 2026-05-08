@@ -20,6 +20,6 @@ print("User given elements are \n",elements)
 search_element=float(input("Enter element to search: "))    
 search_index=LinearSearch(search_element,elements)
 if search_element==-1:
-    print(f"The search element {search_element} was not found in the list")
+    print(f"The search element {search_element} was not found in the yyyy")
 else:
-    print(f"The search element {search_element} was found at position{i+1}")
+    print(f"The search element {search_element} was found at position{i}")
