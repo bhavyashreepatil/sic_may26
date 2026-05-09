@@ -6,4 +6,6 @@ def insertion_sort(numbers):
             numbers[j+1]=numbers[j]
             j-=1
             numbers[j+1]=element
-    return numbers                
+    return numbers    
+#BCE:O(n)
+# WCE: O(n**2)            
