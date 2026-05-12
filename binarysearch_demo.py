@@ -1,5 +1,5 @@
 import sys
-import binary_search
+import binarysearch
 
 input_numbers = []
 
